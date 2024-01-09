@@ -25,6 +25,5 @@ Click Sign In Button on Login Page
 Verifikasi Login
     Wait Until Element Is Visible    ${verify_login}
 
-#Nontifikasi gagal Login
- #   Click Element    my_element
-  #  Wait Until Page Contains Element    //android.widget.Toast[@text="Invalid username/password"]
+Nontifikasi gagal Login
+    Wait Until Page Contains               Invalid username/password

@@ -12,24 +12,28 @@
 
 ## Keterangan aplikasi yang akan di uji
 
-| Nama                 | yang_di_uji | Description |
+| Nama                 | yang_di_uji | Description |       
 | :------------------- | :---------- | :---------- |
 | Alqoeri Putri Insani | login       | \_\_\_\_    |
 
 | Nama              | yang_di_uji             | Description |
 | :---------------- | :---------------------- | :---------- |
-| Keren Simanjuntak | My Account Edit Address | \_\_\_\_    |
+| Keren Simanjuntak | ------------- | \_\_\_\_    |
 
 | Nama              | yang_di_uji                         | Description |
 | :---------------- | :---------------------------------- | :---------- |
-| Muhammad Ramdhani | My Account Edit Account Information | \_\_\_\_    |
+| Muhammad Ramdhani | Search | \_\_\_\_    |
 
 | Nama         | Yang_di_uji                  | Description |
 | :----------- | :--------------------------- | :---------- |
-| Ridwan Rafif | Proceed to Checkout          | \_\_\_\_    |
-| none         | View and update Shoping cart | none        |
+| Ridwan Rafif | ------    | \_\_\_\_    |
 
 | Nama                   | yang_di_uji        | Description |
 | :--------------------- | :----------------- | :---------- |
-| Dyar Dwiqi Adriadi Nur | Create An Acccount | \_\_\_\_    |
-| none                   | Choose product     | none        |
+| Dyar Dwiqi Adriadi Nur | Sign out | \_\_\_\_    |
+
+## Link Dokumentasi yang dibuat 
+
+Alqoeri Putri Insani 
+https://drive.google.com/file/d/1-Axj1ORmyTxKjlqf7oR0Lp4gbKXyS4u5/view?usp=sharing
+

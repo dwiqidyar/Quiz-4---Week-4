@@ -50,6 +50,6 @@ Login Invalid Credential
     # Step 7: Click Sign in button on login page
     Click Sign In Button on Login Page
     # Step 8: Verify user is logged in
-   # Nontifikasi gagal Login
+    Nontifikasi gagal Login
     # Step 9: Close application
    # Close Flight Application
