@@ -12,7 +12,7 @@
 
 ## Keterangan aplikasi yang akan di uji
 
-| Nama                 | yang_di_uji | Description |
+| Nama                 | yang_di_uji | Description |       
 | :------------------- | :---------- | :---------- |
 | Alqoeri Putri Insani | login       | \_\_\_\_    |
 
@@ -31,4 +31,5 @@
 | Nama                   | yang_di_uji        | Description |
 | :--------------------- | :----------------- | :---------- |
 | Dyar Dwiqi Adriadi Nur | Sign out | \_\_\_\_    |
+
 

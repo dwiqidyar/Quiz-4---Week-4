@@ -31,18 +31,4 @@ Click Sign In Button on Login Page
 Verifikasi Login
     Wait Until Element Is Visible    ${verify_login}
 
-# Nontifikasi gagal Login
- #    Click Element    my_element
-    #    Wait Until Page Contains Element    //android.widget.Toast[@text="Invalid username/password"]
 
-Input txt Email
-    [Arguments]    ${Email}=${Valid_emial}
-    Input Text    ${email_input}    ${Email}
-
-Input txt Password
-    [Arguments]    ${Password}=${Valid_password}
-    Input Text    ${password_input}    ${Password}
-
-Click tombol Sign in
-    Click Element    ${tombol_sign_in}
-    # Wait Until Page Contains    text
