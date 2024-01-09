@@ -31,4 +31,6 @@ Click Sign In Button on Login Page
 Verifikasi Login
     Wait Until Element Is Visible    ${verify_login}
 
+Nontifikasi gagal Login
+    Wait Until Page Contains               Invalid username/password
 
