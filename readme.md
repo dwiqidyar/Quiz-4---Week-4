@@ -32,8 +32,4 @@
 | :--------------------- | :----------------- | :---------- |
 | Dyar Dwiqi Adriadi Nur | Sign out | \_\_\_\_    |
 
-## Link Dokumentasi yang dibuat 
-
-Alqoeri Putri Insani 
-https://drive.google.com/file/d/1-Axj1ORmyTxKjlqf7oR0Lp4gbKXyS4u5/view?usp=sharing
 
