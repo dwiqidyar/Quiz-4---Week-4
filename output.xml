@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.1 on darwin)" generated="20240110 01:22:31.291" rpa="false" schemaversion="4">
+<suite id="s1" name="signout Flight" source="/Users/macbookair2020/Quiz-4---Week-4/DyarSuites/signout_Flight.robot">
+<test id="s1-t1" name="signout" line="11">
+<kw name="open aplikasi mac" library="base">
+<kw name="Open Application" library="AppiumLibrary">
+<arg>remote_url=${REMOTE_URL}</arg>
+<arg>platformName=${PLATFORM_NAME}</arg>
+<arg>platformVersion=${PLATFORM_VERSION2}</arg>
+<arg>deviceName=${DEVICE_NAME}</arg>
+<arg>appPackage=${APP_PACKAGE}</arg>
+<arg>appActivity=${APP_ACTIVITY}</arg>
+<doc>Opens a new application to given Appium server.
+Capabilities of appium server, Android and iOS,
+Please check https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/server-args.md
+| *Option*            | *Man.* | *Description*     |
+| remote_url          | Yes    | Appium server url |
+| alias               | no     | alias             |
+| strict_ssl          | No     | allows you to send commands to an invalid certificate host like a self-signed one. |</doc>
+<status status="PASS" starttime="20240110 01:22:31.410" endtime="20240110 01:22:45.663"/>
+</kw>
+<status status="PASS" starttime="20240110 01:22:31.410" endtime="20240110 01:22:45.664"/>
+</kw>
+<status status="PASS" starttime="20240110 01:22:31.409" endtime="20240110 01:22:45.664"/>
+</test>
+<status status="PASS" starttime="20240110 01:22:31.292" endtime="20240110 01:22:45.665"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="signout Flight">signout Flight</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

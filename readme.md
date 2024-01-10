@@ -30,6 +30,6 @@
 
 | Nama                   | yang_di_uji        | Description |
 | :--------------------- | :----------------- | :---------- |
-| Dyar Dwiqi Adriadi Nur | Sign out | \_\_\_\_    |
+| Dyar Dwiqi Adriadi Nur | Sign out |https://drive.google.com/file/d/16PuvzsiastcIkQUyw9SgOsevlRkxH8qL/view?usp=sharing|
 
 
